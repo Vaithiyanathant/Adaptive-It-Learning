@@ -129,7 +129,7 @@ const Footer = () => {
                             <a
                                 href='#!'
                                 className='text-neutral-600 dark:text-neutral-200'>
-                                FAQ'S
+                                FAQ&apos;S
                             </a>
                         </p>
                         <p className='hover:text-yellow-300 mb-4'>

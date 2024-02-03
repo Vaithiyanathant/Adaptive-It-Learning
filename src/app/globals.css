@@ -11,3 +11,16 @@
 .slick-dots li.slick-active button:before {
   color:orange !important;
 }
+
+
+.tss{
+    font-weight: 900;
+    font-size: 8em;
+    text-align: center;
+    font-family:'poppins', sans-serif;
+    background-image: linear-gradient(to right, #F0C000, #F0D800);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+}
