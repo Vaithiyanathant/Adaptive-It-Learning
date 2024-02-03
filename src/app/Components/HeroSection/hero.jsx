@@ -3,7 +3,7 @@
 import React from "react";
 export default function Hero() {
 	return (
-		<div className='flex flex-col md:flex-row items-center gap-10 justify-center'>
+		<div className='flex flex-col md:flex-row items-center gap-10 justify-center mx-20 '>
 			<div className='flex align-items-center'></div>
 			<div className='flex-1'>
 				<span className='tss bg-gradient-to-r from-yellow-500 to-yellow-700 text-transparent bg-clip-text '>
@@ -33,7 +33,7 @@ export default function Hero() {
 			<div className='flex-1'>
 				{/* Add your image component or HTML here */}
 				<img
-					className='h-500px w-500px object-cover hidden md:block'
+					className='h-500px w-500px object-cover hidden md:block mx-20'
 					src='https://img.freepik.com/premium-vector/artificial-intelligence-cyborg-technological-brain-white-background_185386-676.jpg'
 					alt='hero logo'
 				/>
