@@ -24,3 +24,27 @@
     color: transparent;
 
 }
+
+.tss{
+    font-weight: 900;
+    font-size: 8em;
+    text-align: center;
+    font-family:'poppins', sans-serif;
+    background-image: linear-gradient(to right, #F0C000, #F0D800);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    
+}
+
+.tsss{
+    font-weight: 300;
+    font-size: 3em;
+    text-align: center;
+
+    background-image: linear-gradient(to right, #F0C000, #F0D800);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+}
