@@ -10,6 +10,9 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
 }
 
+.profile{
+  width: 50px;
+}
 
 
 .navbar-logo img {
@@ -55,4 +58,9 @@
 .navbar-links li a:hover {
   color: #333;
   text-decoration: none;
+}
+
+.navbar-login{
+  display: flex;
+  gap: 2rem;
 }
