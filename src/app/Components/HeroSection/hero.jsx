@@ -3,6 +3,8 @@
 import Link from "next/link";
 import React from "react";
 import { cursor, useTypewriter } from "react-simple-typewriter";
+import Typewriter from 'react-simple-typewriter';
+
 
 export default function Hero() {
 
