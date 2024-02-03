@@ -1,0 +1,83 @@
+export const data =  [
+      {
+        question: "In HTML, what tag is used for creating a hyperlink?",
+        option1: "<link>",
+        option2: "<a>",
+        option3: "<hlink>",
+        option4: "<url>",
+        ans: 2,
+      },
+      {
+        question: "Which CSS property is used for changing the text color?",
+        option1: "text-color",
+        option2: "font-color",
+        option3: "color",
+        option4: "text-style",
+        ans: 3,
+      },
+      {
+        question: "What is the purpose of the JavaScript querySelector method?",
+        option1: "To select multiple elements",
+        option2: "To select elements by class",
+        option3: "To select elements by ID",
+        option4: "To select the first matching element",
+        ans: 2,
+      },
+      {
+        question: "In Node.js, which module is used for handling file operations?",
+        option1: "fs",
+        option2: "file",
+        option3: "io",
+        option4: "path",
+        ans: 1,
+      },
+      {
+        question: "How can you define a route in Express.js?",
+        option1: "express.route()",
+        option2: "app.route()",
+        option3: "router.define()",
+        option4: "express.path()",
+        ans: 2,
+      },
+      {
+        question: "What does React.js use to manage component state?",
+        option1: "setState()",
+        option2: "updateState()",
+        option3: "changeState()",
+        option4: "modifyState()",
+        ans: 1
+      },
+      {
+        question: "Which of the following is a NoSQL database?",
+        option1: "MySQL",
+        option2: "MongoDB",
+        option3: "PostgreSQL",
+        option4: "SQLite",
+        ans: 2,
+      },
+      {
+        question: "What is the purpose of the Express.js middleware?",
+        option1: "To handle routing",
+        option2: "To process HTTP requests",
+        option3: "To manage database connections",
+        option4: "To style web pages",
+        ans: 2,
+      },
+      {
+        question: "Which npm command is used to install dependencies listed in the package.json file?",
+        option1: "npm install",
+        option2: "npm add",
+        option3: "npm update",
+        option4: "npm require",
+        ans: 1,
+      },
+      {
+        question: "What is JSX in the context of React.js?",
+        option1: "JavaScript XML",
+        option2: "JSON Extension",
+        option3: "JavaScript Extension",
+        option4: "JSX is not related to React.js",
+        ans: 1,
+      }
+]
+  

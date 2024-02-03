@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function SkillTest() {
   return (
-    <div>SkillTest</div>
+    <div>
+      <div className=''>Select Which Course You </div>
+    </div>
   )
 }

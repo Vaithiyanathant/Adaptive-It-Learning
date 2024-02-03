@@ -1,0 +1,7 @@
+.d {
+    background-image: url("https://img.freepik.com/free-photo/office-desk-table-with-pencils-supplies-cup_155003-10186.jpg");
+    height: 100vh;  /* without quotes */
+        background-size: cover;
+margin:0px;
+padding:0px;
+}
