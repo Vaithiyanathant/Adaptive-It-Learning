@@ -83,7 +83,7 @@ const Top = () => {
 			<div>
 				<h1 className='tsss'>Top courses !!!</h1>
 			</div>
-			<div className="mx-40">
+			<div className="mx-40 ">
 			<div className='relative flex gap-10  align-items-center p-10 '>
 				{visibleCourses.map((course, index) => (
 					<div

@@ -89,7 +89,7 @@ const Footer = () => {
 
                     <div className=''>
                         <h6 className='hover:text-yellow-300 mb-4 flex justify-center font-semibold uppercase md:justify-start'>
-                            COURCES
+                            COURSES
                         </h6>
                         <p className=' hover:text-yellow-300 mb-4'>
                             <a
