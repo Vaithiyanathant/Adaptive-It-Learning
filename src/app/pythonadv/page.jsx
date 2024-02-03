@@ -5,20 +5,20 @@ import React from 'react'
 export default function page() {
   return (
     <div>
-        <div className='font-black text-4xl px-20 pt-20 pb-10'>Python Programming Fundamentals Beginner</div>
-        <div className='px-20 font-bold w-1/2 pb-10'>Python Fundamentals: A beginner-friendly module introducing core Python concepts such as syntax, data types, and control flow. Learn through interactive exercises and projects.</div>
-       <div class="space-y-5 h-screen">
-        <Link href={'/modules'}>
-  <div class="mx-auto w-1/2 bg-black rounded-md text-white text-center py-2 font-bold">
+        <div className='font-black text-4xl px-20 pt-20 pb-10'>Python Programming Fundamentals Advanced</div>
+        <div className='px-20 font-bold w-1/2 pb-10'>Python Advanced: An in-depth module delving into advanced Python topics including object-oriented programming, functional programming, decorators, generators, and advanced data structures. Gain mastery through challenging projects and real-world applications.</div>
+       <div class="gap-y-5 h-screen">
+        <Link href={'/lambdaf'}>
+  <div class="mx-auto w-1/2 bg-black rounded-md text-white text-center py-2 font-bold mb-5">
     Lambda Functions and list Comprehension
   </div>
   </Link>
-  <Link href={'/modules'}>
-  <div class="mx-auto w-1/2 bg-black rounded-md text-white text-center py-2 font-bold">
+  <Link href={'/exception'}>
+  <div class="mx-auto w-1/2 bg-black rounded-md text-white text-center py-2 font-bold mb-5">
     Exception Handling
   </div>
   </Link>
-  <Link href={'/modules'}>
+  <Link href={'/map'}>
   <div class="mx-auto w-1/2 bg-black rounded-md text-white text-center py-2 font-bold ">
     Map Filters Reduce
   </div>
