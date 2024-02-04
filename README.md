@@ -1,7 +1,4 @@
-#hosted Vercel link 
-
-<a href="https://adaptive-it-learning.vercel.app">click me !!!</a>
-https://adaptive-it-learning.vercel.app
+#hosted Vercel link "<a href="https://adaptive-it-learning.vercel.app">click me !!!</a>
 
 
 <br/>
