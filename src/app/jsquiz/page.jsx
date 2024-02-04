@@ -51,9 +51,9 @@ function Quiz1() {
     // Redirect based on score
     if (result) {
         if (score < 5) {
-            window.location.href = "/beginner-course";
+            window.location.href = "/jsbeg";
         } else {
-            window.location.href = "/intermediate-course";
+            window.location.href = "/jsadv";
         }
     }
 

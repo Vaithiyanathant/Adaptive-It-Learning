@@ -108,9 +108,7 @@ const Top = () => {
 								{course.description}
 							</p>
 							<div className='flex items-center justify-center mt-3'>
-								<div className='icon-box bg-gradient-to-r from-[#F0C000] to-[#F0D800] rounded-md text-center p-3'>
-									<p className='span text-white font-semibold'>Get Started</p>
-								</div>
+								
 							</div>
 						</div>
 					</div>
