@@ -51,5 +51,9 @@ and making sure they gain the skills they need
 <br/>
 
 
-<h1>Project Images</h1
+<h1>Project Images</h1>
+
+![Video](https://www.youtube.com/watch?v=Aj-o1qU9FLc)
+![image](https://github.com/The-dynasty/Profile-Posting-Website-for-Contractors/assets/131884045/24fe0e0f-5035-484f-912b-e9f73ff44b4a)
+![image](https://github.com/The-dynasty/Profile-Posting-Website-for-Contractors/assets/131884045/db089595-1136-4224-af18-7d4477abcc13)
 
