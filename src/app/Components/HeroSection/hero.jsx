@@ -55,6 +55,9 @@ export default function Hero() {
 					src='https://img.freepik.com/premium-vector/artificial-intelligence-cyborg-technological-brain-white-background_185386-676.jpg'
 					alt='hero logo'
 				/>
+
+
+				
 			</div>
 		</div>
 	);

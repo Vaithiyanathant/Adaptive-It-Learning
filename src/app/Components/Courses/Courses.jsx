@@ -24,7 +24,7 @@ const CourseCard = () => {
             title: "JavaScript for Modern Web Development",
             description: "Learn the essentials of JavaScript to create interactive and dynamic web applications",
             imageSrc: "https://images.ctfassets.net/8cjpn0bwx327/1kYEy9rLk5z7iD4m2WXW4b/e3f39ee5a02c0a6aac76f91f9d630e3a/JavaScript_in_Web_Development.jpg",
-            link: '/javascriptmod' // Example link
+            link: '/jsanswers' // Example link
         },
     ];
 
