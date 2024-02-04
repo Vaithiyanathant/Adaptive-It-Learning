@@ -1,38 +1,35 @@
-#hosted link <a href="https://adaptive-it-learning.vercel.app">click !!!</a>
+# Learn It - Adaptive IT Learning Platform
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Learn It](<insert-image-url-here>)
 
-## Getting Started
+## Overview
 
-First, run the development server:
+Learn It is an adaptive self-learning platform that provides courses tailored to individual expertise and learning styles. The project aims to address the challenge of ineffective IT training by introducing an AI-based system.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Problem Statement
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Identification:** The project tackles the issue of ineffective IT training by introducing an AI-based system that adapts courses to individual learning styles, improving efficiency and skill development.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Significance:** Current IT training methods often overlook the fact that everyone learns differently, resulting in wasted time and resources. Learn It aims to provide a personalized and streamlined learning experience for IT professionals.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Proposed Solution
 
-## Learn More
+- **Description:** Learn It creates a smart IT training system that utilizes artificial intelligence to understand how each person learns. Instead of a one-size-fits-all approach, the system determines the best way for each individual, making IT training more effective.
 
-To learn more about Next.js, take a look at the following resources:
+- **Innovation:** By personalizing IT training, Learn It addresses the shortcomings of current methods, ensuring a more efficient learning process, saving time, and ensuring individuals acquire the skills they need.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Next.js
+- Node.js
+- Google Dialogflow
+- Python
 
-## Deploy on Vercel
+## Project Images
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Image1](<insert-image-url-1-here>)
+![Image2](<insert-image-url-2-here>)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Hosted Vercel Link
+
+[Learn It - Adaptive IT Learning](https://adaptive-it-learning.vercel.app)
