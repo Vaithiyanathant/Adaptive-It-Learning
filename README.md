@@ -1,4 +1,4 @@
-#hosted Vercel link : <a href="https://adaptive-it-learning.vercel.app">click me !!!</a>
+# hosted Vercel link : <a href="https://adaptive-it-learning.vercel.app">click me !!!</a>
 
 # demo video link :<a href="https://www.youtube.com/embed/Aj-o1qU9FLc?si=5cWuQGengaC2wUs_">Watch me !!!</a>
 <br/>
@@ -7,7 +7,7 @@
 <br/>
 
 
-<h1>Problem Statement</h1>
+# Problem Statement
 <p>
   -Identification: The project addresses the challenge of ineffective IT training by introducing an 
 AI-based system that adapts courses to individual learning styles, improving efficiency and skill 
@@ -21,7 +21,7 @@ time and making sure they gain the skills they need
 <br/>
 
 
-<h1>Proposed Solution</h1>
+# Proposed Solution
 <p>
   - Description: Our solution is to create a smart IT training system that uses computer smarts
 to understand how each person learns. Instead of everyone learning the same way, our system 
@@ -35,7 +35,7 @@ and making sure they gain the skills they need
 
 <br/>
 
-<h1>Tech Stack</h1>
+# Tech Stack 
 <ul>
   <li>Next Js</li>
   <li>Node Js</li>
@@ -46,4 +46,4 @@ and making sure they gain the skills they need
 <br/>
 
 
-<h1>Project Images</h1>
+# Project Images 
