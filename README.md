@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+#hosted link <a href="https://adaptive-it-learning.vercel.app">Click here !!!</a>
 ## Getting Started
 
 First, run the development server:
