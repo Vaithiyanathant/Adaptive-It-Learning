@@ -1,8 +1,6 @@
 #hosted Vercel link : <a href="https://adaptive-it-learning.vercel.app">click me !!!</a>
 
-#Demo video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aj-o1qU9FLc?si=GGHKTcSevZX4rx8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+# demo video link :<a href="https://www.youtube.com/embed/Aj-o1qU9FLc?si=5cWuQGengaC2wUs_">Watch me !!!</a>
 <br/>
 <h1>Learn It</h1>
 <p>Adaptive Self learning Platform Which provides you courses according to your expertise</p>
