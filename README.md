@@ -1,12 +1,16 @@
 #hosted Vercel link 
-<button href="https://adaptive-it-learning.vercel.app">Click</button>
-<a href="https://adaptive-it-learning.vercel.app">click !!!</a>
+
+<a href="https://adaptive-it-learning.vercel.app">click me !!!</a>
+https://adaptive-it-learning.vercel.app
 
 
 <br/>
 
 <h1>Learn It</h1>
 <p>Adaptive Self learning Platform Which provides you courses according to your expertise</p>
+
+<br/>
+
 
 <h1>Problem Statement</h1>
 <p>
@@ -19,6 +23,8 @@ consider that everyone learns differently. This leads to wasted time and resourc
 IT training personalized with our solution, we can help people learn more efficiently, saving 
 time and making sure they gain the skills they need
 </p>
+<br/>
+
 
 <h1>Proposed Solution</h1>
 <p>
@@ -31,3 +37,15 @@ consider that everyone learns differently. This leads to wasted time and resourc
 IT training personalized with our solution, we can help people learn more efficiently, saving time 
 and making sure they gain the skills they need
 </p>
+
+<br/>
+
+<h1>Tech Stack</h1>
+<ul>
+  <li>Next Js</li>
+  <li>Node Js</li>
+  <li>Google Dialog flow</li>
+  <li>Python</li>
+</ul>
+
+<br/>
